@@ -4,8 +4,7 @@ A simple Tic Tac Toe game made in Rust for practicing the basic concepts of the 
 
 ## 🔹 Features  
 ✅ Single-player mode against a basic AI 🤖  
-✅ Interactive CLI-based gameplay  
-✅ Simple AI logic using the `rand` crate  
+✅ Interactive CLI-based gameplay   
 
 ## 🚀 How to Run  
 1. Clone the repository:  
